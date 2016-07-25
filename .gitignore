@@ -88,6 +88,6 @@ ENV/
 # Rope project settings
 .ropeproject
 
-# Ignore temporary swap files
-
+# Temporary swap files
 *~
+*.sw[o-p]
